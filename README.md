@@ -1,0 +1,1 @@
+i create a html file on visual art gallery in which i show five ancient painting by using all types of tags like border tag ,underline tag,paragraph tag,bold,italic,ordered list and unordered list and add image with each heading of that topic.
